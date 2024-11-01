@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">778860131341</string>
+  <string name="google_storage_bucket" translatable="false">allione-ar.appspot.com</string>
+  <string name="project_id" translatable="false">allione-ar</string>
+  <string name="google_api_key" translatable="false">AIzaSyDooW0OQHdS_IQyyuEKF2aSdkA5zYEck_8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDooW0OQHdS_IQyyuEKF2aSdkA5zYEck_8</string>
+  <string name="google_app_id" translatable="false">1:778860131341:android:48700c21d4cd4475ea1144</string>
+</resources>

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6580b7bd70ee4323891f53ef8cced3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137030
+  packageName: 3D WebView for Android (Web Browser)
+  packageVersion: 4.8
+  assetPath: Assets/Vuplex/WebView/Core/Materials/Resources/AppleVideoMaterial.mat
+  uploadId: 669290

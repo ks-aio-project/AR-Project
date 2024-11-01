@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778860131341",
+    "project_id": "allione-ar",
+    "storage_bucket": "allione-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778860131341:android:48700c21d4cd4475ea1144",
+        "android_client_info": {
+          "package_name": "kr.allione.ar_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDooW0OQHdS_IQyyuEKF2aSdkA5zYEck_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

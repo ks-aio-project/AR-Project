@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e21a26116c4774590a788ada804676e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137030
+  packageName: 3D WebView for Android (Web Browser)
+  packageVersion: 4.8
+  assetPath: Assets/Vuplex/WebView/Android/Scripts/Internal/AndroidBoolCallback.cs
+  uploadId: 669290
